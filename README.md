@@ -6,7 +6,6 @@
 - **DOI**: [https://doi.org/10.5281/zenodo.13886886](https://doi.org/10.5281/zenodo.13886886)
 - ![DOI Badge](https://zenodo.org/badge/DOI/10.5281/zenodo.13886886.svg)
 - **Date of Creation**: 03/10/2024
-- **Project URL**: [Link to project/repository if applicable]
 
 ## Data & File Overview
 - **Dataset Name**: Luka Dončić Rookie Year Stats (2018-2019)
