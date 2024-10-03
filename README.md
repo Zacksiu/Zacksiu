@@ -38,5 +38,17 @@
 - **Data Collection**: The data was collected from Basketball Reference for Luka Dončić's rookie season in 2018-2019. The dataset was filtered to focus on per-game statistics, ensuring a clear view of Dončić's performance throughout his rookie year.
 - **Metadata Standard**: The Data Documentation Initiative (DDI) was used to structure the metadata for this dataset.
 
-## Challenges in Creating the ReadMe
-The main challenge in creating this dataset was ensuring the accuracy of the statistics from multiple sources and ensuring the variables were representative of Dončić's rookie performance. This was mitigated by using trusted sources such as Basketball Reference and double-checking the data against other NBA sources.
+## 1. Which metadata standard did you choose and why?
+For this project I picked the metadata standard Data Documentation Initiative (DDI). Applied generally in the social sciences, the DDI criteria emphasis research data recording for simpler sharing, management, and reuse. DDI offers a logical method for adding contextual data (season, team, etc.) and variables including player statistics (points, assists, etc.). Sports science and analytics can include basketball statistics—especially player performance data—as part of their framework. DDI was selected since it provides thorough criteria guaranteeing well-documented datasets, thereby allowing interpretation and perhaps recycling of the dataset for following projects.
+
+## 2. Which template/software did you use?
+I compile the ReadMe file using a Markdown template. Simple, generally supported throughout GitHub, Zenodo, markdown let you create basic formatting including tables, headers, and lists without using sophisticated tools. Markdown also lets you easily add basic components in creating a professional-looking ReadMe: links (like the DOI URL for the dataset), pictures (such the DOI badge), and tables (to arrange the data dictionary). Being published in plain text as well as on websites, the file offers general accessibility.
+
+## 3. What was the most challenging part of creating a ReadMe file? How did you overcome these obstacles?
+Especially considering significant statistical data like Luka Dončić's rookie year performance, building the ReadMe file proved most difficult in guaranteeing the material was concise but thorough. Most importantly, it was crucial to correctly portray the variables—that is, points per game, assists per game, etc.—and build a data dictionary that would make sense to technical and non-technical users.
+
+To go beyond these difficulties:
+
+I divided the content into little chunks so that every ReadMe component—General Information, Data Overview, Data Dictionary, etc.—had an obvious application.
+Markdown was my formatting tool; it allowed me to build tables and give brief explanations free from file stuffing.
+To guarantee the accuracy of the data, I searched reliable sources—like Basketball Reference—and generated the metadata using the DDI standard, therefore preserving consistency in the variable and dataset descriptions.
