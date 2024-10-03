@@ -31,7 +31,6 @@
 | `MPG`         | Minutes played per game               | Numeric | Minutes   | 32.2              |
 
 ## Sharing & Access Information
-- **License**: [License Type]
 - **Access**: Public
 - **Citation**: luka_doncic_rookie_stats_2018_2019 Zenodo, DOI: [https://doi.org/10.5281/zenodo.13886886](https://doi.org/10.5281/zenodo.13886886)
 
