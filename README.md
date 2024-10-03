@@ -1,4 +1,4 @@
-[luka_doncic_rookie_stats_2018_2019.csv](https://github.com/user-attachments/files/17247580/luka_doncic_rookie_stats_2018_2019.csv)# Project Title: Luka Dončić Rookie Year Statistics (2018-2019 NBA Season)
+ ## Project Title: Luka Dončić Rookie Year Statistics (2018-2019 NBA Season)
 
 ## General Information
 - **Description**: This dataset contains key performance statistics for Luka Dončić during his rookie season with the Dallas Mavericks in the 2018-2019 NBA season. The dataset includes per-game statistics such as points per game (PPG), assists per game (APG), rebounds per game (RPG), and shooting percentages. The data is focused on analyzing Dončić's impactful first season in the NBA.
